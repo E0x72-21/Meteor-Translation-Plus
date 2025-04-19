@@ -3,14 +3,15 @@
   "id": "meteor-translation-addon",
   "version": "${version}",
   "name": "Meteor Translation Addon",
-  "description": "An addon template for Meteor Client addons.",
+  "description": "An addon fixs unicode font render and provide translation for Meteor",
   "authors": [
-    "Nippaku Zanmu"
+    "Nippaku Zanmu",
+    "Eric_2021"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "https://github.com/E0x72-21/meteor-translation-addon"
   },
-  "icon": "assets/template/icon.png",
+  "icon": "assets/meteor-translation-addon/icon.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [
