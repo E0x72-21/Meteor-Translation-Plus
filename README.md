@@ -1,30 +1,25 @@
-# Meteor Translation Addon 
-# 流星翻译插件
-Warning: This project is under development and translations may not be complete
+## Meteor Translation Addon
 
-警告: 此项目处于开发阶段 对内容的翻译可能不全
+> ℹ️ 本插件以[Nippaku-Zanmu/meteor-translation-addon](https://github.com/Nippaku-Zanmu/meteor-translation-addon)插件为框架制作
 
-目前正在进行简体中文的翻译工作
-如果你想为流星端的中文 翻译做出自己的贡献请点击 https://zh.crowdin.com/project/meteortransaddon/zh-CN
+### 它能做什么？
+- 为Meteor功能提供一定汉化
+- 修复Meteor非英文字符渲染
 
-The module MeteorClient is translated
-The language you translate depends on the language you choose for your game
+### 它与Nippaku-Zanmu的汉化插件的区别是什么？
+- 所有译文均由E0x72-21一人翻译，以便有更好的统一性（不使用原插件的译文）
+- **它仅汉化注释/说明部分** ~~问就是我觉得中文的Meteor UI挺别扭的~~
 
-把流星端的模块名称翻译为你游戏的语言
+### 为什么启用汉化后无法正常显示中文？
+因为Meteor内嵌的默认Comfortaa字体没有非英文字形所以无法正常显示中文字符
+\
+解决方法：将Meteor的Custom font切换为任意包含中文字形的字体
 
-## How to use
-## 如何使用
-Click the Translation button on the Translation module configuration screen
-点击 Translation 模块中的 Translation按钮
+### 其它事项
+未完成所有注释/说明的汉化，目前进度: 17%
 
-## Why is it useless?
-## 为啥没有用
-The module may not support your game language. Set the language to a supported language such as Chinese
+因为翻译进度目前还没有任何发行版，如果非要体验请自行去Actions里最后一次commit触发的Auto Build中的Artifacts下载
 
-模块可能不支持你的游戏语言 将语言设置为支持的语言 比如中文
+![Auto Build](/README%20images/Auto%20Build.png)
 
-## 为什么启用翻译过后功能名称一片空白
-~~因为流星端的字体渲染引擎只能渲染英文字体 你可以在config页面中关闭CustomFont 或者使用我的修复版的MeteorClient~~
-
-0.2版本已修复流星字体渲染引擎的问题 如果模块名称无法正常显示 请将流星的自定义字体切换为任意支持中文的字体
-
+将来可能会为一些有渲染效果的功能加入更详细的Custom font选项
