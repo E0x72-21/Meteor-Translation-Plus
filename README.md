@@ -1,4 +1,8 @@
-## Meteor Translation+
+<div align="center">
+<img src="/assets/logo.png" alt="meteor-plus" width="225px" />
+
+<h1>Meteor Translation+</h1>
+</div>
 
 > ℹ️ 本插件以[Nippaku-Zanmu/meteor-translation-addon](https://github.com/Nippaku-Zanmu/meteor-translation-addon)插件为框架制作
 
@@ -21,6 +25,6 @@
 
 因为翻译进度目前还没有任何发行版，如果非要体验请自行去Actions里最后一次commit触发的Auto Build中的Artifacts下载
 
-![Auto Build](/README%20images/Auto%20Build.png)
+![Auto Build](/assets/Auto_Build.png)
 
 将来可能会为一些有渲染效果的功能加入更详细的Custom font选项
