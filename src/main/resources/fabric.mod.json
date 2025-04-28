@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "meteor-translation-addon",
+  "id": "meteor-translation-plus",
   "version": "${version}",
-  "name": "Meteor Translation Addon",
-  "description": "An addon fixs unicode font render and provide translation for Meteor",
+  "name": "Meteor Translation+",
+  "description": "An addon offers unicode font rendering fix and translation for Meteor, Meteor Rejects and Meteor+",
   "authors": [
     "Nippaku Zanmu",
-    "Eric_2021"
+    "E0x72-21"
   ],
   "contact": {
     "repo": "https://github.com/E0x72-21/meteor-translation-addon"
