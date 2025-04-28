@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/assets/logo.png" alt="meteor-plus" width="225px" />
+<img src="/assets/logo.png" alt="meteor-translation-plus" width="225px" />
 
 <h1>Meteor Translation+</h1>
 </div>
