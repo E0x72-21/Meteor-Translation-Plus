@@ -15,13 +15,19 @@
 - **它仅汉化注释/说明部分** ~~问就是我觉得中文的Meteor UI挺别扭的~~
 - 为Meteor Rejects和Meteor+插件提供汉化
 
+### 翻译进度
+- Meteor进度：24.11%
+- Meteor rejects进度：16.05%
+- Meteor+进度：7.58%
+- Meteor translation+进度：0.0%
+- 总进度：21.11%
+
 ### 为什么启用汉化后无法正常显示中文？
 因为Meteor内嵌的默认Comfortaa字体没有非英文字形所以无法正常显示中文字符
 \
 解决方法：将Meteor的Custom font切换为任意包含中文字形的字体
 
 ### 其它事项
-未完成所有注释/说明的汉化，目前进度: 24.4%
 
 因为翻译进度目前还没有任何发行版，如果非要体验请自行去Actions里最后一次commit触发的Auto Build中的Artifacts下载
 
