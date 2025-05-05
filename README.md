@@ -16,11 +16,11 @@
 - 为Meteor Rejects和Meteor+插件提供汉化
 
 ### 翻译进度
-- Meteor进度：24.11%
-- Meteor rejects进度：16.05%
-- Meteor+进度：7.58%
+- Meteor进度：25.59%
+- Meteor rejects进度：33.44%
+- Meteor+进度：12.8%
 - Meteor translation+进度：0.0%
-- 总进度：21.11%
+- 总进度：25.35%
 
 ### 为什么启用汉化后无法正常显示中文？
 因为Meteor内嵌的默认Comfortaa字体没有非英文字形所以无法正常显示中文字符
