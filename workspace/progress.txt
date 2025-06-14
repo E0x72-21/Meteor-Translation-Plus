@@ -1,5 +1,5 @@
-- Meteor进度：29.01%
-- Meteor rejects进度：42.47%
-- Meteor+进度：12.8%
+- Meteor进度：29.95%
+- Meteor rejects进度：52.84%
+- Meteor+进度：16.11%
 - Meteor translation+进度：0.0%
-- 总进度：29.24%
+- 总进度：31.84%
