@@ -4,6 +4,8 @@
 <h1>Meteor Translation+</h1>
 </div>
 
+> 学业繁忙懒得折腾力，现不限期弃坑了😇
+> 
 > ℹ️ 本插件以[Nippaku-Zanmu/meteor-translation-addon](https://github.com/Nippaku-Zanmu/meteor-translation-addon)插件为框架制作
 
 ### 它能做什么？
